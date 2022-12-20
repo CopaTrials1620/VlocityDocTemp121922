@@ -1,0 +1,32 @@
+[
+    {
+        "ContentDocumentId": {
+            "LatestPublishedVersion.ExternalDocumentInfo2": "38e4842b-dd73-827e-f6a0-883d2c0152f6",
+            "LatestPublishedVersion.Title": "Quote Document Template V1.docx",
+            "LatestPublishedVersion.VersionNumber": "1",
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "ContentDocument/Generated1302282153",
+            "VlocityRecordSObjectType": "ContentDocument"
+        },
+        "DocumentTemplate.GlobalKey": "Quote Document/1/Copado/1671512311841",
+        "DocumentTemplateId": {
+            "GlobalKey": "Quote Document/1/Copado/1671512311841",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "DocumentTemplate/Generated1043632256",
+            "VlocityRecordSObjectType": "DocumentTemplate"
+        },
+        "FileStageType": "Original",
+        "LatestContentVersionId": {
+            "ExternalDocumentInfo2": "38e4842b-dd73-827e-f6a0-883d2c0152f6",
+            "Title": "Quote Document Template V1.docx",
+            "VersionNumber": "1",
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "VlocityRecordSourceKey:068Dn00000060icIAA",
+            "VlocityRecordSObjectType": "ContentVersion"
+        },
+        "Name": "Quote Document Template V1.docx",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "DocumentTemplateContentDoc",
+        "VlocityRecordSourceKey": "DocumentTemplateContentDoc/Generated695924598"
+    }
+]

@@ -1,0 +1,345 @@
+[
+    {
+        "FilterGroup": 0,
+        "FilterOperator": "=",
+        "FilterValue": "Id",
+        "GlobalKey": "docgenGetQuoteDetails-V1Custom0jIDn000000x7ZEMAYItem3",
+        "InputFieldName": "Id",
+        "InputObjectName": "Quote",
+        "InputObjectQuerySequence": 1,
+        "IsDisabled": false,
+        "IsRequiredForUpsert": false,
+        "IsUpsertKey": false,
+        "Name": "docgenGetQuoteDetails-V1",
+        "OmniDataTransformationId": {
+            "Name": "docgenGetQuoteDetails-V1",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "OmniDataTransform/docgenGetQuoteDetails-V1",
+            "VlocityRecordSObjectType": "OmniDataTransform"
+        },
+        "OutputCreationSequence": 0,
+        "OutputFieldName": "Quote",
+        "OutputObjectName": "json",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "OmniDataTransformItem"
+    },
+    {
+        "FilterGroup": 0,
+        "FilterOperator": "=",
+        "FilterValue": "Quote:Id",
+        "GlobalKey": "docgenGetQuoteDetails-V1Custom0jIDn000000x7ZEMAYItem0",
+        "InputFieldName": "QuoteId",
+        "InputObjectName": "QuoteLineItem",
+        "InputObjectQuerySequence": 2,
+        "IsDisabled": false,
+        "IsRequiredForUpsert": false,
+        "IsUpsertKey": false,
+        "Name": "docgenGetQuoteDetails-V1",
+        "OmniDataTransformationId": {
+            "Name": "docgenGetQuoteDetails-V1",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "OmniDataTransform/docgenGetQuoteDetails-V1",
+            "VlocityRecordSObjectType": "OmniDataTransform"
+        },
+        "OutputCreationSequence": 0,
+        "OutputFieldName": "Quote:QuoteLineItem",
+        "OutputObjectName": "json",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "OmniDataTransformItem"
+    },
+    {
+        "FilterGroup": 0,
+        "FilterOperator": "=",
+        "FilterValue": "Quote:AccountId",
+        "GlobalKey": "docgenGetQuoteDetails-V1Custom0jIDn000000x7ZEMAYItem2",
+        "InputFieldName": "Id",
+        "InputObjectName": "Account",
+        "InputObjectQuerySequence": 3,
+        "IsDisabled": false,
+        "IsRequiredForUpsert": false,
+        "IsUpsertKey": false,
+        "Name": "docgenGetQuoteDetails-V1",
+        "OmniDataTransformationId": {
+            "Name": "docgenGetQuoteDetails-V1",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "OmniDataTransform/docgenGetQuoteDetails-V1",
+            "VlocityRecordSObjectType": "OmniDataTransform"
+        },
+        "OutputCreationSequence": 0,
+        "OutputFieldName": "Quote:Account",
+        "OutputObjectName": "json",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "OmniDataTransformItem"
+    },
+    {
+        "FilterGroup": 0,
+        "FilterOperator": "=",
+        "FilterValue": "Quote:QuoteLineItem:Product2Id",
+        "GlobalKey": "docgenGetQuoteDetails-V1Custom0jIDn000000x7ZEMAYItem1",
+        "InputFieldName": "Id",
+        "InputObjectName": "Product2",
+        "InputObjectQuerySequence": 4,
+        "IsDisabled": false,
+        "IsRequiredForUpsert": false,
+        "IsUpsertKey": false,
+        "Name": "docgenGetQuoteDetails-V1",
+        "OmniDataTransformationId": {
+            "Name": "docgenGetQuoteDetails-V1",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "OmniDataTransform/docgenGetQuoteDetails-V1",
+            "VlocityRecordSObjectType": "OmniDataTransform"
+        },
+        "OutputCreationSequence": 0,
+        "OutputFieldName": "Quote:QuoteLineItem:Product",
+        "OutputObjectName": "json",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "OmniDataTransformItem"
+    },
+    {
+        "GlobalKey": "docgenGetQuoteDetails-V1Custom0jIDn000000x7ZEMAYItem5",
+        "InputFieldName": "Quote:Account:Name",
+        "IsDisabled": false,
+        "IsRequiredForUpsert": false,
+        "IsUpsertKey": false,
+        "Name": "docgenGetQuoteDetails-V1",
+        "OmniDataTransformationId": {
+            "Name": "docgenGetQuoteDetails-V1",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "OmniDataTransform/docgenGetQuoteDetails-V1",
+            "VlocityRecordSObjectType": "OmniDataTransform"
+        },
+        "OutputCreationSequence": 1,
+        "OutputFieldName": "AccountName",
+        "OutputObjectName": "json",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "OmniDataTransformItem"
+    },
+    {
+        "GlobalKey": "docgenGetQuoteDetails-V1Custom0jIDn000000x7ZEMAYItem15",
+        "InputFieldName": "Quote:BillingCity",
+        "IsDisabled": false,
+        "IsRequiredForUpsert": false,
+        "IsUpsertKey": false,
+        "Name": "docgenGetQuoteDetails-V1",
+        "OmniDataTransformationId": {
+            "Name": "docgenGetQuoteDetails-V1",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "OmniDataTransform/docgenGetQuoteDetails-V1",
+            "VlocityRecordSObjectType": "OmniDataTransform"
+        },
+        "OutputCreationSequence": 1,
+        "OutputFieldName": "BillingCity",
+        "OutputObjectName": "json",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "OmniDataTransformItem"
+    },
+    {
+        "GlobalKey": "docgenGetQuoteDetails-V1Custom0jIDn000000x7ZEMAYItem4",
+        "InputFieldName": "Quote:BillingCountry",
+        "IsDisabled": false,
+        "IsRequiredForUpsert": false,
+        "IsUpsertKey": false,
+        "Name": "docgenGetQuoteDetails-V1",
+        "OmniDataTransformationId": {
+            "Name": "docgenGetQuoteDetails-V1",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "OmniDataTransform/docgenGetQuoteDetails-V1",
+            "VlocityRecordSObjectType": "OmniDataTransform"
+        },
+        "OutputCreationSequence": 1,
+        "OutputFieldName": "BillingCountry",
+        "OutputObjectName": "json",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "OmniDataTransformItem"
+    },
+    {
+        "GlobalKey": "docgenGetQuoteDetails-V1Custom0jIDn000000x7ZEMAYItem10",
+        "InputFieldName": "Quote:BillingPostalCode",
+        "IsDisabled": false,
+        "IsRequiredForUpsert": false,
+        "IsUpsertKey": false,
+        "Name": "docgenGetQuoteDetails-V1",
+        "OmniDataTransformationId": {
+            "Name": "docgenGetQuoteDetails-V1",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "OmniDataTransform/docgenGetQuoteDetails-V1",
+            "VlocityRecordSObjectType": "OmniDataTransform"
+        },
+        "OutputCreationSequence": 1,
+        "OutputFieldName": "BillingPostalCode",
+        "OutputObjectName": "json",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "OmniDataTransformItem"
+    },
+    {
+        "GlobalKey": "docgenGetQuoteDetails-V1Custom0jIDn000000x7ZEMAYItem12",
+        "InputFieldName": "Quote:BillingState",
+        "IsDisabled": false,
+        "IsRequiredForUpsert": false,
+        "IsUpsertKey": false,
+        "Name": "docgenGetQuoteDetails-V1",
+        "OmniDataTransformationId": {
+            "Name": "docgenGetQuoteDetails-V1",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "OmniDataTransform/docgenGetQuoteDetails-V1",
+            "VlocityRecordSObjectType": "OmniDataTransform"
+        },
+        "OutputCreationSequence": 1,
+        "OutputFieldName": "BillingState",
+        "OutputObjectName": "json",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "OmniDataTransformItem"
+    },
+    {
+        "GlobalKey": "docgenGetQuoteDetails-V1Custom0jIDn000000x7ZEMAYItem7",
+        "InputFieldName": "Quote:BillingStreet",
+        "IsDisabled": false,
+        "IsRequiredForUpsert": false,
+        "IsUpsertKey": false,
+        "Name": "docgenGetQuoteDetails-V1",
+        "OmniDataTransformationId": {
+            "Name": "docgenGetQuoteDetails-V1",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "OmniDataTransform/docgenGetQuoteDetails-V1",
+            "VlocityRecordSObjectType": "OmniDataTransform"
+        },
+        "OutputCreationSequence": 1,
+        "OutputFieldName": "BillingStreet",
+        "OutputObjectName": "json",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "OmniDataTransformItem"
+    },
+    {
+        "GlobalKey": "docgenGetQuoteDetails-V1Custom0jIDn000000x7ZEMAYItem9",
+        "InputFieldName": "Quote:ExpirationDate",
+        "IsDisabled": false,
+        "IsRequiredForUpsert": false,
+        "IsUpsertKey": false,
+        "Name": "docgenGetQuoteDetails-V1",
+        "OmniDataTransformationId": {
+            "Name": "docgenGetQuoteDetails-V1",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "OmniDataTransform/docgenGetQuoteDetails-V1",
+            "VlocityRecordSObjectType": "OmniDataTransform"
+        },
+        "OutputCreationSequence": 1,
+        "OutputFieldName": "ExpirationDate",
+        "OutputObjectName": "json",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "OmniDataTransformItem"
+    },
+    {
+        "GlobalKey": "docgenGetQuoteDetails-V1Custom0jIDn000000x7ZEMAYItem16",
+        "InputFieldName": "Quote:QuoteLineItem:Product:Name",
+        "IsDisabled": false,
+        "IsRequiredForUpsert": false,
+        "IsUpsertKey": false,
+        "Name": "docgenGetQuoteDetails-V1",
+        "OmniDataTransformationId": {
+            "Name": "docgenGetQuoteDetails-V1",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "OmniDataTransform/docgenGetQuoteDetails-V1",
+            "VlocityRecordSObjectType": "OmniDataTransform"
+        },
+        "OutputCreationSequence": 1,
+        "OutputFieldName": "QuoteLineItem:Products:ProductName",
+        "OutputObjectName": "json",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "OmniDataTransformItem"
+    },
+    {
+        "GlobalKey": "docgenGetQuoteDetails-V1Custom0jIDn000000x7ZEMAYItem8",
+        "InputFieldName": "Quote:QuoteLineItem:Quantity",
+        "IsDisabled": false,
+        "IsRequiredForUpsert": false,
+        "IsUpsertKey": false,
+        "Name": "docgenGetQuoteDetails-V1",
+        "OmniDataTransformationId": {
+            "Name": "docgenGetQuoteDetails-V1",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "OmniDataTransform/docgenGetQuoteDetails-V1",
+            "VlocityRecordSObjectType": "OmniDataTransform"
+        },
+        "OutputCreationSequence": 1,
+        "OutputFieldName": "QuoteLineItem:Products:Quantity",
+        "OutputObjectName": "json",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "OmniDataTransformItem"
+    },
+    {
+        "GlobalKey": "docgenGetQuoteDetails-V1Custom0jIDn000000x7ZEMAYItem14",
+        "InputFieldName": "Quote:QuoteLineItem:Subtotal",
+        "IsDisabled": false,
+        "IsRequiredForUpsert": false,
+        "IsUpsertKey": false,
+        "Name": "docgenGetQuoteDetails-V1",
+        "OmniDataTransformationId": {
+            "Name": "docgenGetQuoteDetails-V1",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "OmniDataTransform/docgenGetQuoteDetails-V1",
+            "VlocityRecordSObjectType": "OmniDataTransform"
+        },
+        "OutputCreationSequence": 1,
+        "OutputFieldName": "QuoteLineItem:Products:Subtotal",
+        "OutputObjectName": "json",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "OmniDataTransformItem"
+    },
+    {
+        "GlobalKey": "docgenGetQuoteDetails-V1Custom0jIDn000000x7ZEMAYItem11",
+        "InputFieldName": "Quote:QuoteLineItem:UnitPrice",
+        "IsDisabled": false,
+        "IsRequiredForUpsert": false,
+        "IsUpsertKey": false,
+        "Name": "docgenGetQuoteDetails-V1",
+        "OmniDataTransformationId": {
+            "Name": "docgenGetQuoteDetails-V1",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "OmniDataTransform/docgenGetQuoteDetails-V1",
+            "VlocityRecordSObjectType": "OmniDataTransform"
+        },
+        "OutputCreationSequence": 1,
+        "OutputFieldName": "QuoteLineItem:Products:UnitPrice",
+        "OutputObjectName": "json",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "OmniDataTransformItem"
+    },
+    {
+        "GlobalKey": "docgenGetQuoteDetails-V1Custom0jIDn000000x7ZEMAYItem13",
+        "InputFieldName": "Quote:QuoteNumber",
+        "IsDisabled": false,
+        "IsRequiredForUpsert": false,
+        "IsUpsertKey": false,
+        "Name": "docgenGetQuoteDetails-V1",
+        "OmniDataTransformationId": {
+            "Name": "docgenGetQuoteDetails-V1",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "OmniDataTransform/docgenGetQuoteDetails-V1",
+            "VlocityRecordSObjectType": "OmniDataTransform"
+        },
+        "OutputCreationSequence": 1,
+        "OutputFieldName": "QuoteNumber",
+        "OutputObjectName": "json",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "OmniDataTransformItem"
+    },
+    {
+        "GlobalKey": "docgenGetQuoteDetails-V1Custom0jIDn000000x7ZEMAYItem6",
+        "InputFieldName": "Quote:TotalPrice",
+        "IsDisabled": false,
+        "IsRequiredForUpsert": false,
+        "IsUpsertKey": false,
+        "Name": "docgenGetQuoteDetails-V1",
+        "OmniDataTransformationId": {
+            "Name": "docgenGetQuoteDetails-V1",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "OmniDataTransform/docgenGetQuoteDetails-V1",
+            "VlocityRecordSObjectType": "OmniDataTransform"
+        },
+        "OutputCreationSequence": 1,
+        "OutputFieldName": "TotalPrice",
+        "OutputObjectName": "json",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "OmniDataTransformItem"
+    }
+]
