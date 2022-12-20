@@ -7,7 +7,7 @@
         <name>DataRaptor</name>
     </types>
     <types>
-        <members>Quote Document</members>
+        <members>Quote-Document</members>
         <name>DocumentTemplates</name>
     </types>
     <types>
