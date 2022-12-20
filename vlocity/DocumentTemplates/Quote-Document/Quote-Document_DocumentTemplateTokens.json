@@ -1,0 +1,226 @@
+[
+    {
+        "Description": "",
+        "DocumentTemplateId": {
+            "GlobalKey": "Quote Document/1/Copado/1671512311841",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "DocumentTemplate/Generated1043632256",
+            "VlocityRecordSObjectType": "DocumentTemplate"
+        },
+        "DocumentTemplateSectionId": "",
+        "GlobalKey": "1655510d-ff97-9ffe-8491-da171bbb1c25",
+        "Name": "UnitPrice",
+        "TokenPath": "products",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "DocumentTemplateToken",
+        "VlocityRecordSourceKey": "DocumentTemplateToken/Generated974067068"
+    },
+    {
+        "Description": "",
+        "DocumentTemplateId": {
+            "GlobalKey": "Quote Document/1/Copado/1671512311841",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "DocumentTemplate/Generated1043632256",
+            "VlocityRecordSObjectType": "DocumentTemplate"
+        },
+        "DocumentTemplateSectionId": "",
+        "GlobalKey": "509d38f7-bdd7-d43e-367a-1f6148959c09",
+        "Name": "AccountName",
+        "TokenPath": "",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "DocumentTemplateToken",
+        "VlocityRecordSourceKey": "DocumentTemplateToken/Generated-536237780"
+    },
+    {
+        "Description": "",
+        "DocumentTemplateId": {
+            "GlobalKey": "Quote Document/1/Copado/1671512311841",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "DocumentTemplate/Generated1043632256",
+            "VlocityRecordSObjectType": "DocumentTemplate"
+        },
+        "DocumentTemplateSectionId": "",
+        "GlobalKey": "553da00b-68b1-8e25-eeb8-b2c63eac5d0b",
+        "Name": "State",
+        "TokenPath": "",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "DocumentTemplateToken",
+        "VlocityRecordSourceKey": "DocumentTemplateToken/Generated1671655697"
+    },
+    {
+        "Description": "",
+        "DocumentTemplateId": {
+            "GlobalKey": "Quote Document/1/Copado/1671512311841",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "DocumentTemplate/Generated1043632256",
+            "VlocityRecordSObjectType": "DocumentTemplate"
+        },
+        "DocumentTemplateSectionId": "",
+        "GlobalKey": "6a9a726a-4bb7-f180-9b24-b94ed882f87b",
+        "Name": "ExpirationDate",
+        "TokenPath": "",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "DocumentTemplateToken",
+        "VlocityRecordSourceKey": "DocumentTemplateToken/Generated-1635854133"
+    },
+    {
+        "Description": "",
+        "DocumentTemplateId": {
+            "GlobalKey": "Quote Document/1/Copado/1671512311841",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "DocumentTemplate/Generated1043632256",
+            "VlocityRecordSObjectType": "DocumentTemplate"
+        },
+        "DocumentTemplateSectionId": "",
+        "GlobalKey": "74f38adf-6148-5698-0ecc-25ee773959e6",
+        "Name": "Street",
+        "TokenPath": "",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "DocumentTemplateToken",
+        "VlocityRecordSourceKey": "DocumentTemplateToken/Generated1304004207"
+    },
+    {
+        "Description": "",
+        "DocumentTemplateId": {
+            "GlobalKey": "Quote Document/1/Copado/1671512311841",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "DocumentTemplate/Generated1043632256",
+            "VlocityRecordSObjectType": "DocumentTemplate"
+        },
+        "DocumentTemplateSectionId": "",
+        "GlobalKey": "760f720d-e9c2-c37a-9b3c-6c9426462aed",
+        "Name": "Quantity",
+        "TokenPath": "products",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "DocumentTemplateToken",
+        "VlocityRecordSourceKey": "DocumentTemplateToken/Generated-1107788014"
+    },
+    {
+        "Description": "",
+        "DocumentTemplateId": {
+            "GlobalKey": "Quote Document/1/Copado/1671512311841",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "DocumentTemplate/Generated1043632256",
+            "VlocityRecordSObjectType": "DocumentTemplate"
+        },
+        "DocumentTemplateSectionId": "",
+        "GlobalKey": "7797883f-30db-7078-d02a-d0f9830fe32a",
+        "Name": "Amount",
+        "TokenPath": "products",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "DocumentTemplateToken",
+        "VlocityRecordSourceKey": "DocumentTemplateToken/Generated-1179362365"
+    },
+    {
+        "Description": "",
+        "DocumentTemplateId": {
+            "GlobalKey": "Quote Document/1/Copado/1671512311841",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "DocumentTemplate/Generated1043632256",
+            "VlocityRecordSObjectType": "DocumentTemplate"
+        },
+        "DocumentTemplateSectionId": "",
+        "GlobalKey": "78edc8e1-3fa9-88f6-d1bb-6c7b58b0bc14",
+        "Name": "IF_Customer_in_HI_AK",
+        "TokenPath": "",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "DocumentTemplateToken",
+        "VlocityRecordSourceKey": "DocumentTemplateToken/Generated-313414976"
+    },
+    {
+        "Description": "",
+        "DocumentTemplateId": {
+            "GlobalKey": "Quote Document/1/Copado/1671512311841",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "DocumentTemplate/Generated1043632256",
+            "VlocityRecordSObjectType": "DocumentTemplate"
+        },
+        "DocumentTemplateSectionId": "",
+        "GlobalKey": "8983508c-69e4-29db-0d07-7f20c98d47fe",
+        "Name": "TotalPrice",
+        "TokenPath": "",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "DocumentTemplateToken",
+        "VlocityRecordSourceKey": "DocumentTemplateToken/Generated-134928451"
+    },
+    {
+        "Description": "",
+        "DocumentTemplateId": {
+            "GlobalKey": "Quote Document/1/Copado/1671512311841",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "DocumentTemplate/Generated1043632256",
+            "VlocityRecordSObjectType": "DocumentTemplate"
+        },
+        "DocumentTemplateSectionId": "",
+        "GlobalKey": "8ce40ef0-c452-188e-ac66-d0202b04a706",
+        "Name": "PostalCode",
+        "TokenPath": "",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "DocumentTemplateToken",
+        "VlocityRecordSourceKey": "DocumentTemplateToken/Generated1694332732"
+    },
+    {
+        "Description": "",
+        "DocumentTemplateId": {
+            "GlobalKey": "Quote Document/1/Copado/1671512311841",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "DocumentTemplate/Generated1043632256",
+            "VlocityRecordSObjectType": "DocumentTemplate"
+        },
+        "DocumentTemplateSectionId": "",
+        "GlobalKey": "8ebcb277-0849-2306-d559-fa65f592624b",
+        "Name": "City",
+        "TokenPath": "",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "DocumentTemplateToken",
+        "VlocityRecordSourceKey": "DocumentTemplateToken/Generated-1109403129"
+    },
+    {
+        "Description": "",
+        "DocumentTemplateId": {
+            "GlobalKey": "Quote Document/1/Copado/1671512311841",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "DocumentTemplate/Generated1043632256",
+            "VlocityRecordSObjectType": "DocumentTemplate"
+        },
+        "DocumentTemplateSectionId": "",
+        "GlobalKey": "d529fa54-5c6a-2972-7e32-be4f5eae4739",
+        "Name": "Country",
+        "TokenPath": "",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "DocumentTemplateToken",
+        "VlocityRecordSourceKey": "DocumentTemplateToken/Generated1350193225"
+    },
+    {
+        "Description": "",
+        "DocumentTemplateId": {
+            "GlobalKey": "Quote Document/1/Copado/1671512311841",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "DocumentTemplate/Generated1043632256",
+            "VlocityRecordSObjectType": "DocumentTemplate"
+        },
+        "DocumentTemplateSectionId": "",
+        "GlobalKey": "d60ac4e1-d6db-a427-46bb-736fd93438f9",
+        "Name": "Product",
+        "TokenPath": "products",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "DocumentTemplateToken",
+        "VlocityRecordSourceKey": "DocumentTemplateToken/Generated-1398383554"
+    },
+    {
+        "Description": "",
+        "DocumentTemplateId": {
+            "GlobalKey": "Quote Document/1/Copado/1671512311841",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "DocumentTemplate/Generated1043632256",
+            "VlocityRecordSObjectType": "DocumentTemplate"
+        },
+        "DocumentTemplateSectionId": "",
+        "GlobalKey": "e256e978-d603-a131-de6f-a7c65fbbd68e",
+        "Name": "QuoteNumber",
+        "TokenPath": "",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "DocumentTemplateToken",
+        "VlocityRecordSourceKey": "DocumentTemplateToken/Generated2047513012"
+    }
+]

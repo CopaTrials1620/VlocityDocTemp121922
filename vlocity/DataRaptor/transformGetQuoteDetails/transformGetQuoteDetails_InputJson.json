@@ -1,0 +1,19 @@
+{
+    "AccountName": "Text",
+    "BillingCity": "Text",
+    "BillingCountry": "Text",
+    "BillingPostalCode": "Text",
+    "BillingState": "Text",
+    "BillingStreet": "Text",
+    "ExpirationDate": "Text",
+    "QuoteLineItem": {
+        "Products": {
+            "ProductName": "Text",
+            "Quantity": "Text",
+            "Subtotal": "Text",
+            "UnitPrice": "Text"
+        }
+    },
+    "QuoteNumber": "Text",
+    "TotalPrice": "Text"
+}
